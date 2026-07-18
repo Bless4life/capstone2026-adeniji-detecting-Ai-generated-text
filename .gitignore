@@ -1,2 +1,6 @@
 data_splits/
 models/
+tmp_tiny/
+tmp_predict/
+tmp_eval/
+error_analysis/*.csv
