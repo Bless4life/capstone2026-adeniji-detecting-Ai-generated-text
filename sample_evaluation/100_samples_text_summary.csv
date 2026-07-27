@@ -1,0 +1,7 @@
+,ChatGPT-Research-Abstracts,GPT-Wiki-Intro,MAGE,RAID,OVERALL
+ettin-encoder-68m,0.8,0.96,0.92,0.76,0.86
+ettin-decoder-68m,0.88,0.96,0.84,0.84,0.88
+roberta-base,0.92,0.8,0.84,0.8,0.84
+modernbert-base,0.84,0.92,0.92,0.72,0.85
+ettin-encoder-400m,0.92,0.92,0.92,0.76,0.88
+ettin-decoder-400m,0.92,0.96,0.96,0.88,0.93
